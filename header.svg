@@ -81,5 +81,8 @@
 				<p>test</p>
 			</div>
 		</div>
+		<script>
+			alert("hoge");
+		</script>
 	</foreignObject>
 </svg>
